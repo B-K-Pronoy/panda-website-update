@@ -33,3 +33,7 @@ input{
 .col-lg-7{
 	text-align: justify;
 }
+.new_btn{
+	background-color: #ff4a92;
+	width: 200px;
+}
